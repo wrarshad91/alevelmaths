@@ -1,0 +1,10 @@
+---
+title: "About the Author"
+output: html_document
+---
+
+Waqar Arshad has been teaching and tutoring mathematics for over twelve years in outstanding schools and sixth form colleges across the UK. He holds postgraduate degrees in education and Statistics and is currently studying towards a masters in Statistics at the University of Sheffield.
+
+Waqar is passionate about the teaching and learning of mathematics. This deep passion comes from his experiences and lessons learned in his undergraduate days where he found the transition to studying mathematics at university to be a challenging one. He prides himself in his ability to break down mathematical concepts and teach them to learners no matter what stage in their learning journey they are.
+
+When he is not teaching or tutoring, Waqar enjoys playing cricket recreationally as a batsman. He also like to exercise and play fighting games such as \textit{Tekken 8}. 

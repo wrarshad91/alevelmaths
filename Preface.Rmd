@@ -1,0 +1,12 @@
+---
+title: "Preface"
+output: html_document
+---
+
+Mathematics for me is like a wonderland full of deep rabbit holes. There is beauty in exploring its vastness and discovering surprising connections. It is also a subject which brings out the best traits in a person; it requires patience and hard work to build understanding in mathematics.
+
+The purpose of this book is to provide a concise summary of all the content in the A-level Mathematics specification. It is designed to  A-level Mathematics, hereby referred to as A-level Maths, is a popular qualification studied by UK students. It is usually a requirement for many courses in STEM (science, technology, engineering and maths) at universities.
+
+The current A-level Maths specification has been in play since 2018 and for me at least, the content and exams definitely feel more difficult than when I sat the exams in 2009. Candidates must sit three exams at the end of two years of study which is different to the modular system in the old specification. Under the old system, resit of modules were possible.
+
+The old adage that things were easier back in my day may have merit for certain things but not for A-level Maths. That being said, it offers a healthy challenge and through challenges we grow.
